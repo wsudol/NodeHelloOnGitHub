@@ -5,5 +5,5 @@ var http = require('http');
 
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/plain'});
-  res.end('Hello Eclipse Fans!');
+  res.end('App 2015-06-25-11');
 }).listen(port);
