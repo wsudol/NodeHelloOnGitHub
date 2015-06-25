@@ -1,6 +1,6 @@
 ---
 applications:
-- name: NodeHelloWorldGit
+- name: NodeHelloWorldOnGitHub
   services:
   - mycache-DataCache
   memory: 128M
